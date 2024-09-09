@@ -8,7 +8,6 @@ A React-based password generator application styled with Tailwind CSS. It genera
 - Assess password strength: `Fair`, `Strong`, `Very Strong`
 - User-friendly input fields with padding and placeholder text
 - Note on password security, recommending users change their password every two weeks
-- Direct link to developer GitHub profile
 
 ## Technologies Used
 
